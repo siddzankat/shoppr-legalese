@@ -96,9 +96,5 @@ Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation of mate
 	10.7	Copyright/Trademark Information.  Copyright © 20___ Shoppr Inc. All rights reserved.  All trademarks, logos and service marks (“Marks”) displayed on the Site are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
 	10.8	Contact Information:
 Siddharth Zankat
-Address: 
-370 ELAN VILLAGE LN 115
-SAN JOSE, California 95134
-Telephone: 2017477776
 Email: siddhzankat@gmail.com
  
