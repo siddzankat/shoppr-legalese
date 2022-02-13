@@ -1,6 +1,6 @@
-# WEBSITE TERMS OF USE
-## VERSION 1.0
-## LAST REVISED ON: 13 Feb, 2022
+# TERMS OF USE
+##### VERSION 1.0
+##### LAST REVISED ON: 13 Feb, 2022
 
 
 The website located at joinshoppr.com (the “Site”) and Shoppr mobile application (the "Shoopr Mobile App") is a copyrighted work belonging to Shoppr Inc (“Company”, “us”, “our”, and “we”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
