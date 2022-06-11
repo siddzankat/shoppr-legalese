@@ -69,7 +69,7 @@ We use this information to provide features of Our Service, to improve and custo
 
 You can enable or disable access to this information at any time, through Your Device settings.
 
-### Information Collected while application is in the background
+### Information Collected while Application is in the Background
 
 Some features and functionality in our Apps require that you provide your location. If you have location services turned on, whenever you use our Apps on your mobile device, we collect and use your geocoordinates (e.g. latitude and longitude) to tailor the Consumer Services to your current location. We will only process your location with your express permission. If you have persistent background location turned on, we will obtain your device’s location even if app is in the background. Your location is never shared with others, except with your consent or as permitted under this Privacy Policy.
 
